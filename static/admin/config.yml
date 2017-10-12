@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: cryberg/district-zouk
+  branch: master
+  publish_mode: editorial_workflow
+
+media_folder: static/img
+
+collections:
+  - name: post
+    label: Post
+    folder: content/post
+    create: true
+    fields:
+      - {name: title, label: Title}
+      - {name: body, label: Body, widget: markdown}
