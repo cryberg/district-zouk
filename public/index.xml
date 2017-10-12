@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>District Zouk</title>
-    <link>http://example.org/</link>
+    <link>https://oceanographer-horse-45458.netlify.com/</link>
     <description>Recent content on District Zouk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oceanographer-horse-45458.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About the Instructors</title>
-      <link>http://example.org/post/instructors/</link>
+      <link>https://oceanographer-horse-45458.netlify.com/post/instructors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/instructors/</guid>
+      <guid>https://oceanographer-horse-45458.netlify.com/post/instructors/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Then place a matching image in static/img - e.</description>
     </item>
     
     <item>
       <title>What is Zouk?</title>
-      <link>http://example.org/post/what-is-zouk/</link>
+      <link>https://oceanographer-horse-45458.netlify.com/post/what-is-zouk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/what-is-zouk/</guid>
+      <guid>https://oceanographer-horse-45458.netlify.com/post/what-is-zouk/</guid>
       <description>Override the default intro and contact backgrounds by putting images in these files:
 img/intro-bg.jpg img/contact-bg.jpg</description>
     </item>
     
     <item>
       <title>Classes and Events</title>
-      <link>http://example.org/post/classes-events/</link>
+      <link>https://oceanographer-horse-45458.netlify.com/post/classes-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/classes-events/</guid>
+      <guid>https://oceanographer-horse-45458.netlify.com/post/classes-events/</guid>
       <description>Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
 title parameter sets the text to be displayed on the contact button icon parameter sets which Font Awesome icon will be displayed</description>
     </item>
     
     <item>
       <title>Performance Team</title>
-      <link>http://example.org/post/performance-team/</link>
+      <link>https://oceanographer-horse-45458.netlify.com/post/performance-team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/performance-team/</guid>
+      <guid>https://oceanographer-horse-45458.netlify.com/post/performance-team/</guid>
       <description>Override the default intro and contact backgrounds by putting images in these files:
 img/intro-bg.jpg img/contact-bg.jpg</description>
     </item>
     
     <item>
       <title>What is DC Zouk</title>
-      <link>http://example.org/about/about/</link>
+      <link>https://oceanographer-horse-45458.netlify.com/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/about/</guid>
+      <guid>https://oceanographer-horse-45458.netlify.com/about/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Put a big button here for staying up to date w/ facebook and then another button for joining the mailing list. Maybe with a nice stylized barrier in between the two</description>
     </item>
