@@ -2,7 +2,7 @@ baseURL = "https://oceanographer-horse-45458.netlify.com/"
 themeDir = "themes"
 languageCode = "en-us"
 title = "District Zouk"
-theme = "landing-page-hugo"
+theme = "landing-page-hugo-master"
 canonifyUrls = "true"
 
 [params]
